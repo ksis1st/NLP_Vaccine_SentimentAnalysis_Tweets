@@ -8,3 +8,14 @@ Just for a basic understanding A **vaccine** works by training the **immune** sy
 
 **The goal here is to do sentiment analysis in the tweet community and conclude on how the community can further improve in shifting the sentiment**
 
+The Process
+
+- Pull in Data using TWINT
+
+
+
+
+
+**The overall tweets that we came across has been positive and objective**
+
+![](README_imges/SentimentOverall.png)
