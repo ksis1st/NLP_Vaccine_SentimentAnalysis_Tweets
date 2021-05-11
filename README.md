@@ -45,12 +45,46 @@ The Process followed & libraries used
 
 3 . **TEXT BLOB**
 
-**The overall tweets that we came across has been positive and objective**
+The Analysis which has been done is based on Polarity and Subjectivity
 
-![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\SentimentOverall-1620305672675.png)
+***Polarity** - For positive-negative-neutral Sentiment
+
+***Subjectivity**- quantifies the amount of personal opinion and factual information contained in the text. The subjectivity was further divided into objective and subjective, the higher subjectivity means that the text contains personal opinion rather than factual information which gets reflected on the objective part
+
+**The overall tweets that we came across has been positive and objective** so we can safely say that the g people who are tweeting have added a more of factual information than their just their personal opinion.![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\SentimentOverall-1620305672675.png)
 
 **Sentiment Polarity** 
 
 ![image-20210507021319702](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\image-20210507021319702.png)
 
 ![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\SentimentPolarity.png)
+
+![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\PolaritytoSubjectivity-1620750281205.png)
+
+The above graph shows us that people want to stay neutral when they have some factual information.
+
+The **Ngrams** gave some interesting information like some of the top 4 words frequently used were:
+
+- about what in the 
+- what in the vaccine - 
+- worry about what in
+
+these words probably reveal that people are curious or worried about what is in the vaccine.
+
+![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\Ngram_1234-1620750730114.png)
+
+**THE WORDCLOUD**
+
+![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\wordcloud.png)
+
+After lot of efforts a clean word cloud did give a lot of words which can be attributed towards a positive feel about having the vaccine and being safe
+
+
+
+
+
+The train and test accuracy gave out Support vector machine model as the best model and the base model logistic regression was not far behind in terms of accuracy
+
+![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\Model_Train_Test_Accuracy.png)
+
+ 
