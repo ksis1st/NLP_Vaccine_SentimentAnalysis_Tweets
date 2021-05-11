@@ -1,6 +1,6 @@
 #  NLP_Vaccine_SentimentAnalysis_Tweets
 
-![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\Vaccine_tweet.png)
+![](//ReadmeImages\Vaccine_tweet.png)
 
 Currently we know COVID-19 continues to be a global crisis, there is one way to get out of the pandemic completely and that is Vaccination. The sentiment towards the vaccine has always been a mixed one as there always is a theory why one should have it and there is another which says not to have.  
 
