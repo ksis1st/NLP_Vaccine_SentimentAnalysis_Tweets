@@ -1,6 +1,7 @@
 #  NLP_Vaccine_SentimentAnalysis_Tweets
 
-![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\Vaccine_tweet.png)
+![](ReadmeImages/Vaccine_tweet.png)
+
 
 Currently we know COVID-19 continues to be a global crisis, there is one way to get out of the pandemic completely and that is Vaccination. The sentiment towards the vaccine has always been a mixed one as there always is a theory why one should have it and there is another which says not to have.  
 
@@ -36,7 +37,7 @@ The Process followed & libraries used
    - @nytimes **(49.9m followers) has only 86 tweets regarding Vaccine
    - **@** **cnnbrk****** **(60.2m followers) has only 47 tweets regarding** **Vaccine \*** * **most popular tweeter news account**
    - **@** **usnews**  **(158.1k followers) has no tweets regarding Vaccine**
-2. ![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\Tweets_by_month.png)
+2. ![](ReadmeImages/Tweets_by_month.png)
 
 - Clearly the number of tweets with regards to vaccine has been the highest month of April 2021
 - Jan 2021 & Feb 2021 had a dip in the number of tweets after taking off in Dec 2020
@@ -55,11 +56,9 @@ The Analysis which has been done is based on Polarity and Subjectivity
 
 **Sentiment Polarity** 
 
-![image-20210507021319702](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\image-20210507021319702.png)
+![](ReadmeImages/SentimentPolarity.png)
 
-![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\SentimentPolarity.png)
-
-![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\PolaritytoSubjectivity-1620750281205.png)
+![](ReadmeImages/PolaritytoSubjectivity-1620750281205.png)
 
 The above graph shows us that people want to stay neutral when they have some factual information.
 
@@ -71,11 +70,11 @@ The **Ngrams** gave some interesting information like some of the top 4 words fr
 
 these words probably reveal that people are curious or worried about what is in the vaccine.
 
-![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\Ngram_1234-1620750730114.png)
+![](ReadmeImages/Ngram_1234-1620750730114.png)
 
 **THE WORDCLOUD**
 
-![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\wordcloud.png)
+![](ReadmeImages/wordcloud.png)
 
 After lot of efforts a clean word cloud did give a lot of words which can be attributed towards a positive feel about having the vaccine and being safe
 
@@ -85,6 +84,6 @@ After lot of efforts a clean word cloud did give a lot of words which can be att
 
 The train and test accuracy gave out Support vector machine model as the best model and the base model logistic regression was not far behind in terms of accuracy
 
-![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\Model_Train_Test_Accuracy.png)
+![](ReadmeImages/Model_Train_Test_Accuracy.png)
 
  
